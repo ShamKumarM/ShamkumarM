@@ -17,10 +17,10 @@
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shamkumarm" target="_blank">
+  <a href="[https://www.linkedin.com/in/shamkumarm](https://www.linkedin.com/in/shamkumar-m-a16526274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/sham_x_adlor?igsh=NmEwamduNG05bWE5)" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:shamkumarm001@gmail.com">
@@ -34,7 +34,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
