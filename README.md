@@ -8,8 +8,8 @@
 
 <h3 align="center">🚀 A Passionate Student Exploring the Frontiers of Artificial Intelligence and Data Analysis</h3>
 
-- 🛠️ Currently working on: **Shoplift Detection System**
-- 📊 Currently learning: **Microsoft Power BI**
+- 🛠️ Currently working on: **Jarvis**
+- 📊 Currently learning: **Generative AI**
 - 📧 Reach me at: [shamkumarm001@gmail.com](mailto:shamkumarm001@gmail.com)
 
 ---
